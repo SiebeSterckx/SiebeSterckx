@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <p>My name is Siebe Sterckx and I'm a student at UC Leuven-Limburg for my bachelors degree in Applied Computer Science.</p>
+  <p>I'm Siebe Sterckx from Belgium and I'm currently a student at UC Leuven-Limburg for my bachelors degree in Applied Computer Science.📚</p>
   <a href="https://www.linkedin.com/in/siebe-sterckx/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
