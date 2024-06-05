@@ -1,13 +1,8 @@
 <h1 align="left">Hey there 👋</h1>
 
 ###
-###
 
 <p align="left">My name is Siebe Sterckx and I'm a student at UC Leuven-Limburg for my bachelors degree in Applied Computer Science.</p>
-
-###
-
-<h3 align="left">Socials:</h3>
 
 ###
 
@@ -18,7 +13,7 @@
 </div>
 
 ###
-
+---
 <h3 align="left">Languages and Tools:</h3>
 
 ###
@@ -46,7 +41,7 @@
 </div>
 
 ###
-
+---
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SiebeSterckx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="160" alt="languages graph"  />
 </div>
